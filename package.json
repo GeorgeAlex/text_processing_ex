@@ -1,0 +1,17 @@
+{
+  "name": "text_processing_ex",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:GeorgeAlex/text_processing_ex.git",
+  "author": "George Stoian",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "resolve": "node dist/index.js"
+  }
+}
